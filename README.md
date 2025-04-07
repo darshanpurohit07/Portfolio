@@ -27,6 +27,7 @@ Highlights the key technologies and tools I work with.
 
 ### 🔸 Projects
 A collection of my projects with links to source code:
+- [ClipShare – Clipboard & File Sharing Tool](https://github.com/darshanpurohit07/ClipShare)
 - [Weather App](https://github.com/darshanpurohit07/Weather-App)
 - [AuthSystem Using Clerk](https://github.com/darshanpurohit07/AuthSystemUsingClerk)
 - [Be-Fit: Fitness Tracking Platform](https://github.com/darshanpurohit07/Be-Fit)
